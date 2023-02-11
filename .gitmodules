@@ -1,0 +1,3 @@
+[submodule "cxx-ring-buffer"]
+	path = cxx-ring-buffer
+	url = ../../Ferdi265/cxx-ring-buffer.git
